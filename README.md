@@ -1,6 +1,6 @@
 ## Hello, 👋
 
-### My name is William, I am 27 years old and I'm starting in the world of web development. 🙂
+### My name is William, I am 27 years old and I'm interested in the world of web development. 🙂
 
 My initial interests are HTML, CSS and Javascript and move forward with Node.js and React to enter the job market as a developer. I am graduated in Systems Analysis and Development and I have a deep passion for technology and the positive impact it has on people's lives. I am always willing to learn and teach what I know. Feel free to contact me. 💻
 
