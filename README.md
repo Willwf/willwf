@@ -1,10 +1,10 @@
 # Hi, I'm William 👋
 
-I'm a 27-year-old web development enthusiast, passionate about technology and the positive impact it can have on people's lives. I am constantly seeking to expand my knowledge and improve my skills in web development. 🙂
+I'm a 29-year-old web development enthusiast, passionate about technology and the positive impact it can have on people's lives. I am constantly seeking to expand my knowledge and improve my skills in web development. 🙂
 
 ## My Interests
 
-My initial interests lie in HTML, CSS, and JavaScript. I am also keen to advance my knowledge in Node.js and React, as I aim to become a professional developer and contribute to innovative and challenging projects.
+Passionate Developer specializing in JavaScript, Node.js, TypeScript, and React, with a strong focus on maintaining and developing robust, scalable web platforms. I aim to become a professional developer and contribute to innovative and challenging projects that deliver exceptional user experiences.
 
 ## Education
 
